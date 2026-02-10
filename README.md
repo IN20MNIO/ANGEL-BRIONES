@@ -46,5 +46,5 @@ Soy **Licenciado en Física** con una fuerte pasión por convertir datos complej
 ---
 
 <div align="center">
-  <p><i>"En Dios confiamos, todos los demás traigan datos."</i></p>
+  <p><i>"¿No quieres poner a prueba tu propio potencial contra el mundo entero?"</i></p>
 </div>
